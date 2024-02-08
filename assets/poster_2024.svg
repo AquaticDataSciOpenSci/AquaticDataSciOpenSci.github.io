@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   inkscape:export-filename="poster_2024_d.png"
+   inkscape:export-filename="poster_2024.png"
    inkscape:export-xdpi="75"
    inkscape:export-ydpi="75"
    sodipodi:docname="poster_2024.svg"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.089864794"
-     inkscape:cx="3371.732"
-     inkscape:cy="378.34616"
+     inkscape:zoom="0.063544005"
+     inkscape:cx="5256.2"
+     inkscape:cy="1337.6557"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="1920"
@@ -1003,68 +1003,68 @@
        y="4.1637521" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,278.22686,3.7301179)"
+       transform="matrix(0.26458333,0,0,0.26458333,271.34765,-13.732385)"
        id="text2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:400px;line-height:1.15;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';text-align:end;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#d7df26;fill-opacity:1;stroke:#000000;stroke-width:15.1181;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="1684.0276"
        y="0"><tspan
          x="3947.1024"
          y="565.51286"
-         id="tspan1">Hacking
+         id="tspan33">Hacking
 </tspan><tspan
          x="2267.1014"
          y="1025.5129"
-         id="tspan3"><tspan
+         id="tspan35"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 -0.00015258789 0 0 -0.00015258789"
-           id="tspan2">Limnology 2024
+           id="tspan34">Limnology 2024
 </tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1104.5438,265.79332)"
+       transform="matrix(0.26458333,0,0,0.26458333,1097.6642,248.33071)"
        id="text2-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:1.15;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';text-align:end;white-space:pre;shape-inside:url(#rect2-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="1684.0276"
        y="0"><tspan
          x="1355.195"
          y="399.59823"
-         id="tspan7"><tspan
+         id="tspan39"><tspan
            style="text-anchor:end"
-           id="tspan4">4</tspan><tspan
+           id="tspan36">4</tspan><tspan
            style="font-size:153.333px"
-           id="tspan5">th</tspan><tspan
+           id="tspan37">th</tspan><tspan
            style="text-anchor:end"
-           id="tspan6"> joined
+           id="tspan38"> joined
 </tspan></tspan><tspan
          x="819.19424"
          y="629.59823"
-         id="tspan9"><tspan
+         id="tspan41"><tspan
            style="text-anchor:end"
-           id="tspan8">Virtual Summit </tspan></tspan><tspan
+           id="tspan40">Virtual Summit </tspan></tspan><tspan
          x="1059.1944"
          y="859.59823"
-         id="tspan11"><tspan
+         id="tspan43"><tspan
            style="text-anchor:end"
-           id="tspan10">and Workshop
+           id="tspan42">and Workshop
 </tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,279.94646,578.89499)"
+       transform="matrix(0.26458333,0,0,0.26458333,273.06725,561.43238)"
        id="text2-0"
        style="font-style:normal;font-weight:normal;font-size:153.333px;line-height:1.5;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2-8);display:inline;fill:#0b0b01;fill-opacity:0.752941;stroke:none;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="2360.801"
        y="0"><tspan
          x="2959.1077"
          y="388.51398"
-         id="tspan13"><tspan
+         id="tspan45"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0001449585 0 0.0001449585 0 0 0.0001449585"
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-align:end;text-anchor:end"
-           id="tspan12">15-17th July AEMON-J Workshop
+           id="tspan44">15-17th July AEMON-J Workshop
 </tspan></tspan><tspan
          x="3419.107"
          y="619.30963"
-         id="tspan15"><tspan
+         id="tspan47"><tspan
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-align:end;text-anchor:end"
-           id="tspan14">18-19th July DSOS Summit</tspan></tspan></text>
+           id="tspan46">18-19th July DSOS Summit</tspan></tspan></text>
     <g
        id="g14"
        transform="matrix(1.1960112,0,0,1.1960112,15.982282,-179.17107)">
@@ -1278,67 +1278,67 @@
        y="0"><tspan
          x="601.06025"
          y="333.85547"
-         id="tspan17"><tspan
+         id="tspan49"><tspan
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-anchor:middle"
-           id="tspan16">Incorporating
+           id="tspan48">Incorporating
 </tspan></tspan><tspan
          x="565.06023"
          y="472.47858"
-         id="tspan19"><tspan
+         id="tspan51"><tspan
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-anchor:middle"
-           id="tspan18">Data Science &amp; </tspan></tspan><tspan
+           id="tspan50">Data Science &amp; </tspan></tspan><tspan
          x="637.06027"
          y="611.10168"
-         id="tspan21"><tspan
+         id="tspan53"><tspan
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-anchor:middle"
-           id="tspan20">Open Science
+           id="tspan52">Open Science
 </tspan></tspan><tspan
          x="565.06023"
          y="749.72479"
-         id="tspan23"><tspan
+         id="tspan55"><tspan
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-anchor:middle"
-           id="tspan22">in the Aquatic </tspan></tspan><tspan
+           id="tspan54">in the Aquatic </tspan></tspan><tspan
          x="781.06036"
          y="888.3479"
-         id="tspan25"><tspan
+         id="tspan57"><tspan
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-anchor:middle"
-           id="tspan24">Sciences</tspan></tspan></text>
+           id="tspan56">Sciences</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.19436505,0,0,0.19436505,-339.40092,735.48575)"
+       transform="matrix(0.19436505,0,0,0.19436505,-346.28013,718.02314)"
        id="text2-0-3"
        style="font-style:normal;font-weight:normal;font-size:208.728px;line-height:1.5;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2-8-7);shape-padding:7.19082;display:inline;fill:#008ae6;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;paint-order:stroke fill markers"
        x="1373.9021"
        y="0"><tspan
          x="6460.8504"
          y="451.64136"
-         id="tspan27"><tspan
+         id="tspan59"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00019836426 -0.00019073486 0.00010681152 0 0 0 0 -0.00011062622 0.00011444092 0 0 0 0 -0.00011062622 0.00015258789 0 0 -0.00019836426 0.00015258789 -0.00020599365 0.00020599365 0 -0.00015258789"
            style="text-align:end;text-anchor:end;fill:#000000;stroke:#000000"
-           id="tspan26">For more infos and free registration go to:
+           id="tspan58">For more infos and free registration go to:
 </tspan></tspan><tspan
          x="5831.4018"
          y="764.73334"
-         id="tspan29"><tspan
+         id="tspan61"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00018310547 0 0 0.00018310547 0 0 0 0 0.00018310547 0 0 0.00018310547 0 0 0 0 0 0 0.00042724609"
            style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-align:end;text-anchor:end;stroke:#000000"
-           id="tspan28">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
+           id="tspan60">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,981.91134,403.39542)"
+       transform="matrix(0.26458333,0,0,0.26458333,975.03213,385.93281)"
        id="text2-3-6"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.667px;line-height:1;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';text-align:end;white-space:pre;shape-inside:url(#rect2-7-7);display:inline;fill:#d7df26;fill-opacity:1;stroke:#000000;stroke-width:11.3386;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="1684.0276"
        y="0"><tspan
          x="2971.3086"
          y="434.90335"
-         id="tspan30">
+         id="tspan62">
 </tspan><tspan
          x="571.30414"
          y="701.57034"
-         id="tspan32"><tspan
+         id="tspan64"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00019836426"
-           id="tspan31">July 15-19 2024</tspan></tspan></text>
+           id="tspan63">July 15-19 2024</tspan></tspan></text>
   </g>
   <path
      style="fill:none;stroke:#000000;stroke-width:1.5;stroke-opacity:1"

@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.25417602"
-     inkscape:cx="775.05343"
-     inkscape:cy="1585.5154"
+     inkscape:cx="897.01617"
+     inkscape:cy="1581.5811"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10"
+     inkscape:current-layer="g11"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs1">
@@ -1001,72 +1001,77 @@
            transform="translate(0,-9.19785)">
           <text
              xml:space="preserve"
-             transform="matrix(0.34847285,0,0,0.34847285,-94.991519,-1.5473322)"
+             transform="matrix(0.34847285,0,0,0.34847285,-53.614936,31.99758)"
              id="text2"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:333.333px;line-height:1.15;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';text-align:center;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#008ae6;fill-opacity:1;stroke:#000000;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-             x="10.476639"
+             x="-1674.1891"
              y="0"><tspan
                x="489.625"
                y="510.20771"
-               id="tspan11"><tspan
+               id="tspan2"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152 -0.0001373291 0.00010681152 -0.0001373291 0.00010681152 0.00010681152"
-                 style="font-size:331.226px"
-                 id="tspan10">Hacking Limnology
+                 style="font-size:331.226px;text-align:start"
+                 id="tspan1">Hacking Limnology
 </tspan></tspan><tspan
                x="489.625"
                y="893.54066"
-               id="tspan14"><tspan
-                 style="font-size:331.226px"
-                 id="tspan12">2024</tspan><tspan
+               id="tspan5"><tspan
+                 style="font-size:331.226px;text-align:start"
+                 id="tspan3">2024</tspan><tspan
                  style="text-align:start"
-                 id="tspan13">
+                 id="tspan4">
 </tspan></tspan><tspan
                x="489.625"
                y="1276.8736"
-               id="tspan16"><tspan
+               id="tspan7"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00016021729 0 0 -0.00016021729 0 0 -0.00016021729"
                  style="font-size:196.666px;text-align:start"
-                 id="tspan15">Virtual Summit and Workshops</tspan></tspan></text>
+                 id="tspan6">Virtual Summit and Workshops</tspan></tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.39745741,0,0,0.39745741,-124.54253,405.39633)"
+             transform="matrix(0.39745741,0,0,0.39745741,-83.166031,438.94112)"
              id="text2-0"
              style="font-style:normal;font-weight:normal;font-size:154.277px;line-height:1.5;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;paint-order:stroke fill markers"
              x="1037.7281"
              y="0"><tspan
                x="489.625"
                y="389.4672"
-               id="tspan18"><tspan
+               id="tspan9"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00015258789 0 0 0.00015258789 0 0 0.00015258789"
                  style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-align:start;stroke:#ffffff"
-                 id="tspan17">15-17th July AEMON-J Workshop
+                 id="tspan8">15-17th July AEMON-J Workshop
 </tspan></tspan><tspan
                x="489.625"
                y="621.68375"
-               id="tspan20"><tspan
+               id="tspan11"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00015258789"
                  style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-align:start;stroke:#ffffff"
-                 id="tspan19">18-19th July DSOS Summit</tspan></tspan></text>
+                 id="tspan10">18-19th July DSOS Summit</tspan></tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.39745741,0,0,0.39745741,-124.39104,1124.4342)"
+             transform="matrix(0.39745741,0,0,0.39745741,-79.358114,1033.5378)"
              id="text2-0-3"
-             style="font-style:normal;font-weight:normal;font-size:136.127px;line-height:1.5;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2-8-7);display:inline;fill:#008ae6;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;paint-order:stroke fill markers"
-             x="-792.11066"
+             style="font-style:normal;font-weight:normal;font-size:127.052px;line-height:1.5;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2-8-7);display:inline;fill:#008ae6;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;paint-order:stroke fill markers"
+             x="-2416.6174"
              y="0"><tspan
                x="489.625"
-               y="371.13996"
-               id="tspan22"><tspan
-                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152"
-                 style="fill:#000000;stroke:#000000"
-                 id="tspan21">For more infos go to:
+               y="361.97634"
+               id="tspan13"><tspan
+                 style="text-align:start;fill:#000000;stroke:#000000"
+                 id="tspan12">For more infos and
 </tspan></tspan><tspan
                x="489.625"
-               y="576.0373"
-               id="tspan24"><tspan
-                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152 0 0 0 0 -0.00010681152"
+               y="552.55434"
+               id="tspan15"><tspan
+                 style="text-align:start;fill:#000000;stroke:#000000"
+                 id="tspan14">free registration go to:
+</tspan></tspan><tspan
+               x="489.625"
+               y="743.13234"
+               id="tspan17"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00019836426 0 0 0 0 0.00019836426"
                  style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-align:start;stroke:#000000"
-                 id="tspan23">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
+                 id="tspan16">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
         </g>
       </g>
     </g>
