@@ -35,7 +35,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8"
+     inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs1">
@@ -1170,21 +1170,21 @@
        y="0"><tspan
          x="1859.4688"
          y="336.86861"
-         id="tspan2"><tspan
+         id="tspan31"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end"
-           id="tspan1">Incorporating
+           id="tspan30">Incorporating
 </tspan></tspan><tspan
          x="995.50391"
          y="477.72775"
-         id="tspan4"><tspan
+         id="tspan33"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end"
-           id="tspan3">Data Science &amp; Open Science
+           id="tspan32">Data Science &amp; Open Science
 </tspan></tspan><tspan
          x="1340.0352"
          y="618.58688"
-         id="tspan6"><tspan
+         id="tspan35"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end"
-           id="tspan5">in the Aquatic Sciences</tspan></tspan></text>
+           id="tspan34">in the Aquatic Sciences</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.23221024,0,0,0.23221024,-182.978,687.65674)"
@@ -1192,22 +1192,21 @@
        style="font-style:normal;font-weight:normal;font-size:208.728px;line-height:1.5;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2-8-7);shape-padding:7.19082;display:inline;fill:#4a2daa;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;paint-order:stroke fill markers"
        x="1373.9021"
        y="0"><tspan
-         x="3609.0153"
+         x="3659.0057"
          y="456.88242"
-         id="tspan9"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152 0 0 0 0 0 0 -0.00012207031 0 0 0.00020599365 0 0 0 -0.0001411438 0 0 0 0 0 -0.0001411438 0.00017547607 0 0 0 0 0 0 0.00017547607"
+         id="tspan38"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012969971 0 0.00020599365 0 0 0 -0.0001411438 0 0 0 0 0 -0.0001411438 0.00017547607 0 0 0 0 0 0 0.00017547607"
            style="fill:#000000"
-           id="tspan7">For more infos and free registration go to:</tspan><tspan
-           dx="-0.00030899048"
+           id="tspan36">For more info and free registration go to:</tspan><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke:#000000"
-           id="tspan8">
+           id="tspan37">
 </tspan></tspan><tspan
          x="3741.9346"
          y="774.94761"
-         id="tspan11"><tspan
+         id="tspan40"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 0 -0.00012207031 0 0 0.00011825562 -0.00015258789 0.00019454956 -0.00016784668 0 0.00019836426 0 -0.00012588501 0.00019454956"
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke:#000000"
-           id="tspan10">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
+           id="tspan39">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,975.03213,385.93281)"
@@ -1217,7 +1216,7 @@
        y="0"><tspan
          x="2971.3086"
          y="434.90335"
-         id="tspan12">
+         id="tspan41">
 </tspan></text>
     <path
        id="path2128-29-8-5"
@@ -1403,28 +1402,28 @@
      y="0"><tspan
        x="1787.7011"
        y="557.13252"
-       id="tspan16"><tspan
+       id="tspan45"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 -0.0001373291 0.00016784668"
          style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
-         id="tspan13">Hacking Limnology </tspan><tspan
+         id="tspan42">Hacking Limnology </tspan><tspan
          dx="0 0.00010681152 -0.0001373291 0.00010681152"
          style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-         id="tspan14">2025</tspan><tspan
+         id="tspan43">2025</tspan><tspan
          dx="-0.0001373291"
          style="font-size:389.898px"
-         id="tspan15">
+         id="tspan44">
 </tspan></tspan><tspan
        x="1633.1695"
        y="1005.5152"
-       id="tspan21"><tspan
+       id="tspan50"><tspan
          style="font-size:389.898px"
-         id="tspan17"> </tspan><tspan
+         id="tspan46"> </tspan><tspan
          style="font-weight:600;font-size:200px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
-         id="tspan18">5</tspan><tspan
+         id="tspan47">5</tspan><tspan
          style="font-weight:600;font-size:153.333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
-         id="tspan19">th</tspan><tspan
+         id="tspan48">th</tspan><tspan
          style="font-weight:600;font-size:200px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
-         id="tspan20"> joint Virtual Summit and Workshops</tspan></tspan></text>
+         id="tspan49"> joint Virtual Summit and Workshops</tspan></tspan></text>
   <g
      id="g7"
      transform="matrix(1.1517979,0,0,1.1517979,121.61925,-23.924563)">
@@ -1439,24 +1438,24 @@
          y="0"><tspan
            x="3128.7465"
            y="392.3641"
-           id="tspan25"><tspan
+           id="tspan54"><tspan
              style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke:#ffffff"
-             id="tspan22">    21-23</tspan><tspan
+             id="tspan51">    21-23</tspan><tspan
              style="font-weight:600;font-size:133.333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end"
-             id="tspan23">th</tspan><tspan
+             id="tspan52">th</tspan><tspan
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152 0.00015258789 0.00012207031 0.00017547607 -0.00016021729"
              style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke:#ffffff"
-             id="tspan24"> July AEMON-J Workshop
+             id="tspan53"> July AEMON-J Workshop
 </tspan></tspan><tspan
            x="3643.6998"
            y="626.01693"
-           id="tspan29"><tspan
+           id="tspan58"><tspan
              style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke:#ffffff"
-             id="tspan26">  24-25</tspan><tspan
+             id="tspan55">  24-25</tspan><tspan
              style="font-weight:600;font-size:133.333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end"
-             id="tspan27">th</tspan><tspan
+             id="tspan56">th</tspan><tspan
              style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke:#ffffff"
-             id="tspan28"> July DSOS Summit</tspan></tspan></text>
+             id="tspan57"> July DSOS Summit</tspan></tspan></text>
       <path
          sodipodi:type="star"
          style="fill:#e45c02;fill-opacity:1;stroke:none;stroke-width:5.5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
