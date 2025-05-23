@@ -7,7 +7,7 @@
    viewBox="0 0 661.45826 661.45826"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
    inkscape:export-filename="flyer_2025.png"
    inkscape:export-xdpi="75"
    inkscape:export-ydpi="75"
@@ -1365,13 +1365,13 @@
        style="font-style:normal;font-weight:normal;font-size:153.333px;line-height:1.5;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2-8-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;paint-order:stroke fill markers"
        x="314.26297"
        y="0"><tspan
-         x="4782.6914"
+         x="4781.845"
          y="392.3641"
          id="tspan12"><tspan
            style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke:#ffffff"
            id="tspan9">21-23</tspan><tspan
            style="font-weight:600;font-size:133.333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end"
-           id="tspan10">th</tspan><tspan
+           id="tspan10">rd</tspan><tspan
            style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke:#ffffff"
            id="tspan11"> July
 </tspan></tspan><tspan
@@ -1393,9 +1393,9 @@
 </tspan></tspan><tspan
          x="4607.6038"
          y="1093.3226"
-         id="tspan37"><tspan
+         id="tspan20"><tspan
            style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;stroke:#ffffff"
-           id="tspan36">DSOS Summit</tspan></tspan></text>
+           id="tspan19">DSOS Summit</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.11550232,0,0,0.11550232,-226.63844,126.08611)"
@@ -1405,19 +1405,19 @@
        y="0"><tspan
          x="3430.9273"
          y="456.88242"
-         id="tspan40"><tspan
+         id="tspan23"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012969971 0 0.00020599365 0 0 0 -0.0001411438 0 0 0 0 0 -0.0001411438 0.00017547607 0 0 0 0 0 0 0.00017547607"
            style="text-align:end;text-anchor:end;fill:#000000"
-           id="tspan38">For more info and free registration go to:</tspan><tspan
+           id="tspan21">For more info and free registration go to:</tspan><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke:#000000"
-           id="tspan39">
+           id="tspan22">
 </tspan></tspan><tspan
          x="3596.7853"
          y="774.94761"
-         id="tspan42"><tspan
+         id="tspan25"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 0 -0.00012207031 0 0 0.00011825562 -0.00015258789 0.00019454956 -0.00016784668 0 0.00019836426 0 -0.00012588501 0.00019454956"
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke:#000000"
-           id="tspan41">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
+           id="tspan24">https://aquaticdatasciopensci.github.io/</tspan></tspan></text>
   </g>
   <path
      style="fill:none;stroke:#000000;stroke-width:1.5;stroke-opacity:1"
